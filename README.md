@@ -1,0 +1,5 @@
+- Hi, I’m @jnsjknn (Joonas Jokinen)
+- I’m interested in JavaScript programming
+- I’ve been learning MERN (MongoDB, Express.js, React.js and Node.js) for about a year and I'm planning to start learning React Native soon
+- I’m looking to collaborate on any JavaScript projects
+- You can reach me by email: [joonas@joonasjokinen.fi](mailto:joonas@joonasjokinen.fi)
