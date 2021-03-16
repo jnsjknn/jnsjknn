@@ -1,6 +1,6 @@
 ### jnsjknn (Joonas Jokinen)
 
-- Self learning programming since 2018
+- Self learning programming since 1/2019
   - JavaScript (React, Express, MongoDB, Node)
   - Python (fundamentals for Windows scripting)
   - C++ (fundamentals for microcontrollers)
